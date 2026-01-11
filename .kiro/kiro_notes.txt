@@ -1,0 +1,2 @@
+I used Kiro to understand the Week 6 Referee challenge.
+Kiro helped me design the comparison logic and explain trade-offs clearly.
